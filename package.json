@@ -1,0 +1,14 @@
+{
+  "name": "exceptionrocket",
+  "version": "1.0.0",
+  "description": "log exception smartly in try catch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "kaba",
+  "license": "ISC"
+}
