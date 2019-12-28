@@ -1,3 +1,4 @@
+```
 const eRocket = require('exceptionRocket')
 
 const apiCall = () => {
@@ -17,3 +18,4 @@ exception apiCall: () => {
     eRocket(apiCall)
   }
 }
+```
