@@ -1,3 +1,6 @@
+Easy error message solution.
+
+Example
 ```
 const eRocket = require('exceptionRocket')
 
